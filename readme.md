@@ -29,9 +29,9 @@ For dev purposes run:
 ## Example Curls
 
 ```bash
-curl http://localhost:5000/hc
+curl http://127.0.0.1:5000/hc
 
-curl http://localhost:5000/4101e67b5bf421688148e2c6e9be6fbd74687658dd
+curl http://127.0.0.1:5000/4101e67b5bf421688148e2c6e9be6fbd74687658dd
 
-curl http://localhost:5000/4101e67b5bf421688148e2c6e9be6fbd74687658dd -H "Authorization: 4rFP8aBhjq8Ih5l1sZUER9TBWO8yGkZKlJLgnTNT"
+curl http://127.0.0.1:5000/4101e67b5bf421688148e2c6e9be6fbd74687658dd -H "Authorization: 4rFP8aBhjq8Ih5l1sZUER9TBWO8yGkZKlJLgnTNT"
 ```
