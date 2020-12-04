@@ -18,7 +18,7 @@ Any request to balance endpoint must contain `Authorization` header, which conta
 
 ## How to run
 
-Clone repository, create your own `config.json` file, in root. You can use `config.json.example` file as a template. After wards just run following command:
+Clone repository, create your own `config.json` file, in root. You can use `config.json.example` file as a template. Afterwards just run following command:
 
 `./run.sh`
 
